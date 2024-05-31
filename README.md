@@ -1,3 +1,6 @@
+Vytvorené pomocou tutoriálu - samostatné dotvorenie niektorých menších funkcií, CSS a HTML prvkov.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
