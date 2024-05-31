@@ -1,0 +1,15 @@
+.movie-delete-button {
+    color: white;
+    background-color: 	#ae0610;
+    padding: 5px;
+    border-radius: .25rem;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: .25rem;
+    border: #ae0610;
+}
+
+.movie-delete-button:hover {
+    background-color: #e30913;
+    border: 1px solid white;
+}

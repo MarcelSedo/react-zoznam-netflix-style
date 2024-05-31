@@ -1,0 +1,16 @@
+.reload-button {
+    color: white;
+    background-color: 	#ae0610;
+    font-size: 15px;
+    padding: 10px 10px;
+    cursor: pointer;
+    border-radius: .25rem;
+    margin-left: 20px;
+    border: #ae0610;
+}
+
+.reload-button:hover {
+    background-color: #e30913;
+    border: 1px solid white;
+    transform: translateY(.25rem);
+}
